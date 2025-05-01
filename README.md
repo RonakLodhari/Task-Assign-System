@@ -54,7 +54,7 @@ A comprehensive web application for tracking daily expenses with user authentica
 
 1. Clone the repository:
 ```bash
-git clone VandanVaghamshi/Expense-Tracker-Application
+git clone RonakLodhari/Expense-Tracker-Application
 cd expense-tracker
 ```
 
