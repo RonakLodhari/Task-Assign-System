@@ -3,7 +3,7 @@
 A comprehensive web application for tracking daily expenses with user authentication, expense management, and data visualization features.
 
 ## Login Credentials
-- Admin Email: admim@gmail.com
+- Admin Email: admin@gmail.com
 - Password: admin123
 
 - User Email: ronak@gmail.com
